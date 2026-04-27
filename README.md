@@ -51,7 +51,7 @@ GitHub Pagesで公開しています。
 
 ## 🚀 公開URL
 
-※ここにGitHub PagesのURLを貼る
+https://tajimei.github.io/designethink/
 
 ---
 
