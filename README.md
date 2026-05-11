@@ -50,7 +50,7 @@ GitHub Pagesで公開しています。
 
 ## 公開URL
 
-tajimei.github.io/designthink/
+https://tajimei.github.io/designthink/
 
 ---
 
